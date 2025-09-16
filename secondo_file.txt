@@ -1,0 +1,4 @@
+creo un altro file .txt
+
+vediamo se anche questo mi verrà spostato:
+in totale ho fatto 6 righe modificate + 2 di python, quindi 8
