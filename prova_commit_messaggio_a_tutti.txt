@@ -1,0 +1,2 @@
+provo a fare una modifica soltanto in questo file, per vedere se il messaggio 
+di commit viene mostrato su tutti gli altri file, o solo su quelli che ho modificato
